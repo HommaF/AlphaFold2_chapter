@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+authors:
+- given-names: "Felix"
+  family-names: "Homma"
+  affiliation: "Department of Plant Sciences - University of Oxford"
+  orcid: "https://orcid.org/0000-0002-7417-9766"
+message: "Please cite this work when using code from this repository"
+title: "An AlphaFold2 multimer workflow to identify high-scoring protein complexes"
+type: Software
