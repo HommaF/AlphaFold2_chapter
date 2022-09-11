@@ -1,0 +1,55 @@
+name: null
+channels:
+  - anaconda
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=1_gnu
+  - biopython=1.79=py36h8f6f2f9_0
+  - blas=1.1=openblas
+  - ca-certificates=2021.10.8=ha878542_0
+  - freetype=2.10.4=h0708190_1
+  - glob2=0.7=py_0
+  - jbig=2.1=h7f98852_2003
+  - jpeg=9d=h36c2ea0_0
+  - lcms2=2.12=hddcbb42_0
+  - ld_impl_linux-64=2.36.1=hea4e1c9_2
+  - lerc=2.2.1=h9c3ff4c_0
+  - libdeflate=1.7=h7f98852_5
+  - libffi=3.3=h58526e2_2
+  - libgcc-ng=11.1.0=hc902ee8_8
+  - libgfortran=3.0.0=1
+  - libgomp=11.1.0=hc902ee8_8
+  - libpng=1.6.37=h21135ba_2
+  - libstdcxx-ng=11.1.0=h56837e0_8
+  - libtiff=4.3.0=hf544144_1
+  - libwebp-base=1.2.1=h7f98852_0
+  - lz4-c=1.9.3=h9c3ff4c_1
+  - mmtf-python=1.1.2=py_0
+  - msgpack-python=1.0.2=py36h605e78d_1
+  - ncurses=6.2=h58526e2_4
+  - numpy=1.12.1=py36_blas_openblashb06ca3d_1
+  - olefile=0.46=pyh9f0ad1d_1
+  - openblas=0.3.3=ha44fe06_1
+  - openjpeg=2.4.0=hb52868f_1
+  - openssl=1.1.1l=h7f98852_0
+  - pandas=0.22.0=py36hf484d3e_0
+  - pillow=8.3.1=py36h676a545_0
+  - pip=21.2.4=pyhd8ed1ab_0
+  - python=3.6.13=hffdb5ce_0_cpython
+  - python-dateutil=2.8.1=py_0
+  - python_abi=3.6=2_cp36m
+  - pytz=2020.1=py_0
+  - readline=8.1=h46c0cb4_0
+  - reportlab=3.5.68=py36h3e18861_0
+  - setuptools=57.4.0=py36h5fab9bb_0
+  - six=1.15.0=py_0
+  - sqlite=3.36.0=h9cd32fc_0
+  - tk=8.6.11=h27826a3_1
+  - wheel=0.37.0=pyhd8ed1ab_1
+  - xz=5.2.5=h516909a_1
+  - zlib=1.2.11=h516909a_1010
+  - zstd=1.5.0=ha95c52a_0
+prefix: /data/dops-plant-genomics/bras4304/envs/biopython
